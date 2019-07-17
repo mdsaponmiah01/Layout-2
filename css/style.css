@@ -1,0 +1,112 @@
+
+
+.header_wrapper {
+	border:2px solid green;
+	min-height:90px;
+	margin:3px;
+	overflow:hidden;
+}
+
+.header {
+	
+}
+
+.header_top {
+	border:2px solid green;
+	min-height:40px;
+	overflow:hidden;
+	margin:1px;
+	
+}
+
+.social-link {
+	border:1px solid green;
+	min-height:30px;
+	width:50%;
+	float:left;
+	margin-top:1px;
+	margin-left:1px;	
+}
+.social-link p{
+	font-family:arial;
+	margin-left:30%;
+	
+}
+.search_box {
+	border:1px solid green;
+	min-height:30px;
+	width:30%;
+	float:left;
+	margin-top:1px;
+	margin-left:18%;	
+}
+.search_box p{
+	font-family:arial;
+	margin-left:30%;
+}
+.header_bottom {
+	border:1px solid black;
+	height:50px;
+	
+}
+
+.log {
+	border:1px solid green;
+	min-height:30px;
+	width:30%;
+	float:left;
+	margin-top:1px;
+	margin-left:3px;
+}
+.log p{
+	font-family:arial;
+	margin-left:30%;
+}
+
+.menu {
+	border:1px solid green;
+	min-height:30px;
+	width:50%;
+	float:right;
+	margin-top:1px;
+	margin-right:3px;
+}
+.menu p{
+	font-family:arial;
+	margin-left:30%;
+}
+
+.content_wrapper{
+	overflow:hidden;
+}
+.main{
+	border:2px solid green;
+	min-height:500px;
+}
+.main_content{
+	border:2px solid green;
+	width:65%;
+	min-height:500px;
+	float:left;
+	
+}
+.side_bar{
+	border:2px solid green;
+	width:25%;
+	min-height:500px;
+	float:right;
+}
+
+#content p{
+	font-family:arial;
+	margin-left:30%;
+	
+}
+.footer{
+	border:2px solid green;
+	min-height:80px;
+}
+.footer p{
+	font-family:arial;
+	text-align:center;
+}
